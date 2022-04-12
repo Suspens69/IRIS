@@ -13,7 +13,7 @@ ClassMethod Test() As %Status
     set webProperties("iKnowEnabled") = 1 
     set webProperties("DeepSeeEnabled") = 1 
     set sc = ##class(Security.Applications).Create(webName, .webProperties) 
-
+    //test
     set a=42
     set test = "q"
     return "Web application "_webName_" has been created!"
