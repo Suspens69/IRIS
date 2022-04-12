@@ -1,0 +1,7 @@
+{
+  "objectscript.conn": {
+    "server": "fal",
+    "ns": "USER",
+    "active": true
+  }
+}
